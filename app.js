@@ -1,12 +1,13 @@
 var name = prompt("what is your name?")
 
-alert("welcome to Nvidia RTX website " + name)
+alert("welcome to Nvidia RTX website " + name +" we are happy to see you again!!")
 
 var favcard = prompt("what is your fav card from these (3070, 3080  , 3090 )?")
 
 
 if(favcard == "3070"){
-  document.write("<p>"+ "great thing you choosed RTX 3070 you will have fun using it"+"</p>")
+  document.write("<p>"+ "great thing you choosed RTX 3070 you will have fun using it"+"</p>"+"<img src='https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=EVr3070f4'>")
+ 
 }
  else if(favcard == "3080")
 {
