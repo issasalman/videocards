@@ -1,4 +1,6 @@
+confirm("press ok to check you are not a bot")
 var name = prompt("what is your name?")
+
 
 alert("welcome to Nvidia RTX website " + name +" we are happy to see you again!!")
 
