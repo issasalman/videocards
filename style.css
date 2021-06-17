@@ -1,0 +1,106 @@
+/* css selectors 
+ html tags
+ class selectors (we can use them for more than one element)
+ id selectors (only of one element)
+ */
+
+ body{
+   background-color: #FFAB73;
+   margin: 0;
+   color: red;
+ }
+
+header{
+   background-color: black;
+   height:  200px;
+   margin: 0;
+   text-align: center;
+   padding-top: 30px
+}
+header ul{
+
+ float: left;
+ font-size: 30px;
+margin: 0;
+  padding-top: 0px
+ color: blue;
+}
+
+header img {
+  float: right;
+ 
+   width: 300px;
+  height: 200px;
+}
+
+
+}
+h1{
+  /* background-color: red; */
+  margin-top: 0;
+  text-align: center;
+  adding-top: 30px
+}
+
+}
+
+section{
+  /* property : value ; */
+  height: 500px ;
+  width: 100%;
+}
+
+.first{
+  background-color: pink;
+}
+
+.second{
+  background-color: grey;
+  color: white;
+}
+
+img{
+
+ width: 300px;
+  height: 300px;
+
+}
+
+div{
+  display: inline-block;
+  background-color: 00917C;
+  width: 400px;
+  height: 400x;
+  background-color: white;
+  color: black;
+   margin: 67px 50px 30px 50px; 
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.issa{
+
+text-align: center;
+
+}
+
+#israaDiv{
+  background-color: #F5A962;
+}
+p{
+  font-size: 30px
+}
+
+#oneP{
+  color: red;
+  font-size: 40px
+}
+/* 
+span{
+  display: block;
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+} */
