@@ -1,4 +1,6 @@
+confirm("press ok to check you are not a bot")
 var name = prompt("what is your name?")
+
 
 alert("welcome to Nvidia RTX website " + name +" we are happy to see you again!!")
 
@@ -11,7 +13,7 @@ if(favcard == "3070"){
 }
  else if(favcard == "3080")
 {
- document.write("<p>"+ "great thing you choosed RTX 3080 you will have fun using it"+"</p>")
+ document.write("<p>"+ "great thing you choosed RTX 3080 you will have fun using it"+"</p>"+'<img src=" https://www.rockinit.co.za/wp-content/uploads/2020/09/ROG-STRIX-RTX3080-10G-GAMING-1.jpg">')
 
 
 
@@ -19,11 +21,11 @@ if(favcard == "3070"){
 
 else if(favcard == "3090")
 {
- document.write("<p>"+ "great thing you choosed RTX 3090 you will have fun using it"+"</p>")
+ document.write("<p>"+ "great thing you choosed RTX 3090 you will have fun using it"+"</p>"+' <img  src="https://i.ytimg.com/vi/Ln2Gr77QQc4/maxresdefault.jpg" width="600" height="400" >')
 }
 else{
   alert("We are  sorry that  we don't have this Model maybe in the future ^^ thanks for your visit")
 }
-
+ console.log(typeof 1 + '4')
 
 
