@@ -104,6 +104,7 @@ text-align: center;
 }
 
 h3 a{
+<<<<<<< HEAD
 color: green;
 }
 
@@ -113,6 +114,9 @@ width: 100%;
 color:green;
 background-color: greenyellow;
 
+=======
+color: red;
+>>>>>>> f897f5fcadf451c81b909ef3b2ee5a5535a8b20b
 }
 
 a{
@@ -120,6 +124,7 @@ color: green;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 #red{
   font-size: 80px;
   color: blue;
@@ -130,6 +135,10 @@ color: green;
   color: blue;
   margin: 0; 
  
+=======
+#israaDiv{
+  background-color: #F5A962;
+>>>>>>> f897f5fcadf451c81b909ef3b2ee5a5535a8b20b
 }
 p{
   font-size: 30px
