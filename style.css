@@ -3,12 +3,28 @@
  class selectors (we can use them for more than one element)
  id selectors (only of one element)
  */
+body  {
 
- body{
-   background-color: #FFAB73;
-   margin: 0;
-   color: red;
- }
+  background-color: #F1E4E4
+}
+
+
+#h1{
+
+  color: #00B906;
+margin-top: 40px;
+text-align: center;
+
+}
+
+#p1 {
+color:black;
+font-size: 29px;
+
+
+
+}
+
 
 header{
    background-color: black;
@@ -34,7 +50,8 @@ header img {
 }
 
 
-}
+
+
 h1{
   /* background-color: red; */
   margin-top: 0;
@@ -66,7 +83,7 @@ img{
 
 }
 
-div{
+.issa {
   display: inline-block;
   background-color: 00917C;
   width: 400px;
@@ -86,8 +103,33 @@ text-align: center;
 
 }
 
-#israaDiv{
-  background-color: #F5A962;
+h3 a{
+color: green;
+}
+
+#fge{
+
+width: 100%;
+color:green;
+background-color: greenyellow;
+
+}
+
+a{
+color: green;
+  text-decoration: none;
+}
+
+#red{
+  font-size: 80px;
+  color: blue;
+  margin: 0; 
+ 
+#red1{
+  font-size: 100px;
+  color: blue;
+  margin: 0; 
+ 
 }
 p{
   font-size: 30px
@@ -97,7 +139,23 @@ p{
   color: red;
   font-size: 40px
 }
-/* 
+
+
+.style1{
+
+  font-size: 80px
+}
+
+#jstext {
+    text-align: center;
+    font-size: 90px;
+    color: #000;
+}
+
+/*
+
+
+
 span{
   display: block;
   background-color: yellow;
