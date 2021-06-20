@@ -1,4 +1,4 @@
-adconfirm("Press ok to check you are not a bot!")
+confirm("Press ok to check you are not a bot!")
 var name = prompt("what is your name?")
 
 
@@ -32,6 +32,11 @@ document.write(  "<div id='ge'>  <img src='https://cdn.alzashop.com/ImgW.ashx?fd
 
 
 
+ 
+document.write("<p>" + "Great thing you choosed RTX 3070 you will have fun using it" + "</p>" + "<img src='https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=EVr3070f4'>")
+
+document.write("<p>" + "great thing you choosed RTX 3070 you will have fun using it" + "</p>" + "<img src='https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=EVr3070f4'>")
+
 
 
 }
@@ -50,6 +55,9 @@ else if (favcard == "3080") {
   
 
 
+  document.write("<p>" + "Great thing you choosed RTX 3080 you will have fun using it" + "</p>" + '<img src=" https://www.rockinit.co.za/wp-content/uploads/2020/09/ROG-STRIX-RTX3080-10G-GAMING-1.jpg">')
+
+  document.write("<p>" + "great thing you choosed RTX 3080 you will have fun using it" + "</p>" + '<img src=" https://www.rockinit.co.za/wp-content/uploads/2020/09/ROG-STRIX-RTX3080-10G-GAMING-1.jpg">')
 }
 
 else if (favcard == "3090") {
@@ -76,6 +84,10 @@ document.write("<div id='ge'>  Great thing you have choosen RTX 3090 you will ha
 
   
 
+
+  document.write("<p>" + "Great thing you choosed RTX 3090 you will have fun using it" + "</p>" + ' <img  src="https://i.ytimg.com/vi/Ln2Gr77QQc4/maxresdefault.jpg" width="600" height="400" >')
+
+  document.write("<p>" + "great thing you choosed RTX 3090 you will have fun using it" + "</p>" + ' <img  src="https://i.ytimg.com/vi/Ln2Gr77QQc4/maxresdefault.jpg" width="600" height="400" >')
 }
 else {
   alert("We are  sorry that  we don't have this Model maybe in the future ^^ thanks for your visit")
@@ -106,6 +118,7 @@ else {
 // // //   alert("We are  sorry that  we don't have this Model maybe in the future ^^ thanks for your visit")
 // // // }
 
+
 // // if (favcard == "3070") {
 // //   document.write("<p>" + "great thing you choosed RTX 3070 you will have fun using it" + "</p>" + "<img src='https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=EVr3070f4'>")
 
@@ -124,5 +137,22 @@ else {
 // //   alert("We are  sorry that  we don't have this Model maybe in the future ^^ thanks for your visit")
 // // }
 
+// if (favcard == "3070") {
+//   document.write("<p>" + "great thing you choosed RTX 3070 you will have fun using it" + "</p>" + "<img src='https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=EVr3070f4'>")
+
+// }
+// else if (favcard == "3080") {
+//   document.write("<p>" + "great thing you choosed RTX 3080 you will have fun using it" + "</p>" + '<img src=" https://www.rockinit.co.za/wp-content/uploads/2020/09/ROG-STRIX-RTX3080-10G-GAMING-1.jpg">')
+
+
+
+// }
+
+// else if (favcard == "3090") {
+//   document.write("<p>" + "great thing you choosed RTX 3090 you will have fun using it" + "</p>" + ' <img  src="https://i.ytimg.com/vi/Ln2Gr77QQc4/maxresdefault.jpg" width="600" height="400" >')
+// }
+// else {
+//   alert("We are  sorry that  we don't have this Model maybe in the future ^^ thanks for your visit")
+// }
 
 
